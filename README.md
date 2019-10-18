@@ -1,1 +1,1 @@
-# Java_Internal_Course
+# Простой проект: maven + git + junit
